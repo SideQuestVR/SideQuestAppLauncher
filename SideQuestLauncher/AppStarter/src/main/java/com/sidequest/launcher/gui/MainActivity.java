@@ -140,6 +140,14 @@ public class MainActivity extends Activity
 
         // Check if left bar shall be hided
         mLeftBar = (LinearLayout) findViewById(R.id.leftbar);
+
+        // Quest 2 workaround for not opening app fragment
+        try {
+            Fragment fragment = (Fragment)Class.forName(AppActivity.class.getName()).getConstructor().newInstance();
+            setActiveFragment(fragment);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     @Override
