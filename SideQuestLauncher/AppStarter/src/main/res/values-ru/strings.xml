@@ -94,6 +94,8 @@ https://github.com/sphinx02/AppStarter-->
   <string name="AmazonSettings">Настройки Fire TV</string>
   <!--Original value: Apps-->
   <string name="leftbar_allapps">Приложения</string>
+  <!--Original value: Store-->
+  <string name="leftbar_store">торговля</string>
   <!--Original value: System-->
   <string name="leftbar_infos">Система</string>
   <!--Original value: Updates-->

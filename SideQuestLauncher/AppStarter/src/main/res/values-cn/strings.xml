@@ -44,6 +44,7 @@
     <string name="jumpbackwatchdogtime_title">返回看门狗时间</string>
     <string name="AmazonSettings">FireTV 设置</string>
     <string name="leftbar_allapps">应用</string>
+    <string name="leftbar_store">应用商店</string>
     <string name="leftbar_infos">系统</string>
     <string name="leftbar_updates">更新</string>
     <string name="leftbar_install">安装</string>

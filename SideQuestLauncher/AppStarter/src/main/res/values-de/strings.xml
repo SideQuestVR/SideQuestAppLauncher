@@ -41,6 +41,7 @@
     <string name="jumpbackwatchdogtime_title">Jump Back Watchdog Zeit</string>
     <string name="AmazonSettings">FireTV Einstellungen</string>
     <string name="leftbar_allapps">Apps</string>
+    <string name="leftbar_store">Store</string>
     <string name="leftbar_infos">System</string>
     <string name="leftbar_updates">Updates</string>
     <string name="leftbar_settings">Einstellungen</string>
